@@ -1,4 +1,4 @@
-The repository contains 4 Jupyter Notebooks, 2 that compare Gemma and LLaMa, and 2 that ask Gemma the same question in 3 different ways.
+**The repository contains 4 Jupyter Notebooks, 2 that compare Gemma and LLaMa, and 2 that ask Gemma the same question in 3 different ways.**
 Packages used by file:
 da-2-gemma-segment.ipynb
   1.os = Python's standard OS library
